@@ -1,0 +1,95 @@
+Buddy you are new 
+Haven’t got one clue
+‘Bout the trouble that your code is gonna make you suffer through
+
+You copy and you paste, you make your data race
+You dangle your pointers all over the place
+
+You hear 
+“We will we will rust you”
+
+
+
+Buddy you’re a veteran
+You’re a little better and
+You wanna make things greater than 
+the CRUD stuff you’re tethered at
+
+You wanna be the best, but techno debt’s
+A chain on your neck that keeps holding you back
+
+You hear
+“We will we will rust you”
+
+
+
+Buddy you’re now older
+35 the magic number
+And your heart has gotten colder
+“Do I still like this?” You wonder.
+
+Coding life is now a daily strife
+This one thing called time cuts you like a steely knife
+
+But you say 
+“We will we will rust you”
+
+
+----------------------------------------------------------------
+
+
+Buddy you are new 
+兄弟你是萌新
+Haven’t got one clue
+暂时啥也不懂
+‘Bout the trouble that your code is gonna make you suffer through
+想不到自己的代码能给自己带来多大麻烦
+
+You copy and you paste, you make your data race
+你一路Ctrl + C/V 大法，数据疯狂竞争
+You dangle your pointers all over the place
+你的指针撒欢如脱缰的野马
+
+You hear 
+这时你听到
+“We will we will rust you”
+
+
+Buddy you’re a veteran
+兄弟你是老兵了
+You’re a little better and
+稍微懂了一点
+You wanna make things greater than 
+你想做点有趣的事情
+the CRUD stuff you’re tethered at
+不想每天无限CRUD
+
+You wanna be the best, but techno debt’s
+你想做到最好，但是太多技术债
+A chain on your neck that keeps holding you back
+像锁链一样绑住你的手脚
+
+You hear
+这时你听到
+“We will we will rust you”
+
+
+Buddy you’re now older
+兄弟你年纪大了
+35 the magic number
+到了传说中的35岁
+And your heart has gotten colder
+你的热血一天天冷却
+“Do I still like this?” You wonder
+怀疑自己还爱不爱干这个
+
+Coding life is now a daily strife
+敲代码变成了一场自我斗争
+This one thing called time cuts you like a steely knife
+岁月像把钢刀一样刺痛着你
+
+But you say 
+但是你说
+“We will we will rust you”
+我要让你这把刀生锈！
+
